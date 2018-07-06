@@ -1,6 +1,6 @@
 # brute.bip39 : Get valid bip39 seeds from incomplete seed (find the valid seeds with brute force)
 
-Open the brute.py file and edit the `seed23words` variable with your 23 words.
+Open the `brute.py` file and edit the `seed23words` variable with your 23 words.
 
 Then, run `python brute.py`.
 
