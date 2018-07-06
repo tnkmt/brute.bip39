@@ -20,3 +20,4 @@ for arridx in range(0,24):
         del arr23[arridx]
         if m.check(tested):
             print tested
+
