@@ -10,3 +10,5 @@ It will give you 180 possible valid BIP39 seeds.
 If the size of your seed is not 24, change the number `24` from this line (from `brute.py`):
 
 `for arridx in range(0,24):`
+
+The `mnemonic.py` file is copied from <a href="https://raw.githubusercontent.com/trezor/python-mnemonic/master/mnemonic/mnemonic.py">Trezor</a>.
