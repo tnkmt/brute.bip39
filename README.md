@@ -13,7 +13,7 @@ If the size of your seed is not 24, change the number `24` from this line (from 
 The `mnemonic.py` file is copied from <a href="https://raw.githubusercontent.com/trezor/python-mnemonic/master/mnemonic/mnemonic.py">Trezor</a>.
 
 
-To make seed with dice and coin: <a href="https://github.com/taelfrinn/Bip39-diceware>BIP39 diceware</a>.
+To make seed with dice and coin: <a href="https://github.com/taelfrinn/Bip39-diceware">BIP39 diceware</a>.
 
 . . .
 
